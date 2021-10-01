@@ -1,4 +1,4 @@
-## Olá! Eu sou a Caroline Lopes, mas pode me chamar só de Carol! 🌼
+## Olá! Eu sou a Caroline Lopes, mas pode me chamar só de Carol! 🌼 🐹
 ##### Estou iniciando na área de desenvolvimento de sistema voltada para Front-End e na área de Designer UI/UX com conhecimento em Figma.
 
 ##
